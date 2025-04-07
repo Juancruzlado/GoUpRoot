@@ -7,7 +7,7 @@ import (
 	"os"
 
 	"github.com/fatih/color"
-	"github.com/juan/localenum/modules"
+	"github.com/juan/gouproot/modules"
 )
 
 // Results stores the enumeration results for JSON output

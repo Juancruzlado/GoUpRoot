@@ -1,4 +1,4 @@
-module github.com/juan/localenum
+module github.com/juan/gouproot
 
 go 1.21
 
